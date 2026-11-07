@@ -1,0 +1,10 @@
+# Dependencias directas del proyecto y validación de recursos multimedia.
+Flask==3.1.3
+Flask-SQLAlchemy==3.1.1
+Flask-WTF==1.3.0
+SQLAlchemy==2.1.1
+Werkzeug==3.1.9
+pyodbc==5.3.0
+python-dotenv==1.2.3
+Pillow==13.0.0
+mutagen==1.48.1

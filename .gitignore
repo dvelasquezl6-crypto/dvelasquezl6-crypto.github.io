@@ -1,0 +1,9 @@
+.env
+instance/
+venv/
+__pycache__/
+*.pyc
+*.log
+*.bak
+*.zip
+herramientas/*.exe
